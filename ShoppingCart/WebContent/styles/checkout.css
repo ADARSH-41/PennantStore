@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+.showroom{
+	display: flex;
+	margin: 6%;	
+	flex-wrap: wrap;
+	width: fit-content;
+}
+
+.product-card{
+	margin: 5%;
+}
